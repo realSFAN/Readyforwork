@@ -2626,28 +2626,11 @@ body {
     flex-shrink: 0;
   }
 }
-.cid-qu7rRueUF4 {
+.cid-qu7UM1PJt4 {
   background-image: url("../../../assets/images/o-africa-cell-phone-facebook-2000x1000.jpg");
 }
-.cid-qu7rRueUF4 .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-}
-.cid-qu7rRueUF4 .input-group-btn {
-  justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-qu7rRueUF4 .content-container {
-    padding-right: 5rem;
-  }
-}
-.cid-qu7rRueUF4 .mbr-text,
-.cid-qu7rRueUF4 .mbr-section-btn {
-  text-align: right;
-}
-.cid-qu7rRueUF4 H1 {
-  text-align: right;
+.cid-qu7UM1PJt4 .mbr-section-subtitle {
+  letter-spacing: .2rem;
 }
 .cid-qu7t0kKc6C {
   padding-top: 15px;
