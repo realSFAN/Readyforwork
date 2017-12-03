@@ -146,7 +146,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "Unlock Your Potentials",
-          "text": "<span style=\"font-style: normal;\"><b>The easiest way to improve your employability or entrepreneurial skills, connect with world class mentors, hire great talents, be unstoppable!</b></span><br>",
+          "text": "<span style=\"font-style: normal;\"><b>Readyforwork helps you to improve your employability or entrepreneurial </b></span><br><span style=\"font-style: normal;\"><b>skills, connect with world class mentors, hire great talents,&nbsp;</b></span><span style=\"font-style: normal;\"><b>be unstoppable!</b></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features6-8\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#form2-l\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE&nbsp;</a>",
           "_tags": [
             "Theme"
@@ -158,7 +158,7 @@
               "color": "#000000",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "22px"
+              "font-size": "20px"
             },
             ".mbr-section-lead": {
               "font-family": "'Roboto Condensed', sans-serif",
@@ -171,7 +171,7 @@
             ".mbr-section-title": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "84px"
+              "font-size": "80px"
             },
             ".mbr-section-lead B": {
               "color": "#c1c1c1"
