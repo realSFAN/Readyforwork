@@ -94,7 +94,7 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
