@@ -131,7 +131,7 @@
             "showText": true,
             "showButtons": true,
             "showArrow": true,
-            "contentAlign": "right",
+            "contentAlign": "left",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x1324.jpg",
             "parallax": true,
