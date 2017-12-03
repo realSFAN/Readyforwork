@@ -146,7 +146,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "Unlock Your Potentials",
-          "text": "<b style=\"font-style: normal;\">Readyforwork provides entry level job seekers and young entrepreneurs with skills for employment and entrepreneurship. Connect with world class mentors, hire great skills, be unstoppable!</b><br>",
+          "text": "<span style=\"font-style: normal;\"><b>Readyforwork provides entry level job seekers and young entrepreneurs with skills for employment and entrepreneurship. Connect with world class mentors, hire great talents, be unstoppable!</b></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features6-8\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#form2-l\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE&nbsp;</a>",
           "_tags": [
             "Theme"
@@ -156,8 +156,9 @@
           "_styles": {
             ".mbr-section-lead SPAN": {
               "color": "#000000",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "22px"
             },
             ".mbr-section-lead": {
               "font-family": "'Roboto Condensed', sans-serif",
