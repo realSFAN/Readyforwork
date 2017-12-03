@@ -133,7 +133,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/o-africa-cell-phone-facebook-2000x1000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x1324.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -142,7 +142,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#c1c1c1",
+            "overlayColor": "#000000",
             "overlayOpacity": "0.5"
           },
           "title": "Unlock Your Potentials",
@@ -173,7 +173,7 @@
               "font-size": "84px"
             },
             ".mbr-section-lead B": {
-              "color": "#000000"
+              "color": "#c1c1c1"
             }
           }
         },
