@@ -478,11 +478,11 @@
           },
           "title": "Join FREE Early Access",
           "subtitle": "Subscribe to our Newsletter",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>",
           "form": {
-            "action": "tomchrismails@gmail.com",
+            "action": "info@sfanonline.org",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Awesome. Thanks for subscribing!"
             },
             "fields": {
               "email": {
