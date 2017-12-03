@@ -155,7 +155,7 @@
           "_anchor": "header1-2",
           "_styles": {
             ".mbr-section-lead SPAN": {
-              "color": "#000000",
+              "color": "#c1c1c1",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-size": "20px"
