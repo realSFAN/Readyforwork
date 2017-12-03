@@ -476,7 +476,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "JOIN FREE EARLY ACCESS",
+          "title": "Join FREE Early Access",
           "subtitle": "Subscribe to our Newsletter",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "form": {
