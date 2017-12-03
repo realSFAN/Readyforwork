@@ -94,14 +94,14 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#38ac21",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-8\">BENEFITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-l\">SIGN UP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-l\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html#form2-l\">COMING SOON</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-8\">BENEFITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-l\">SIGN UP</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form2-l\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html#form2-l\">COMING SOON</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -131,7 +131,7 @@
             "showText": true,
             "showButtons": true,
             "showArrow": true,
-            "contentAlign": "left",
+            "contentAlign": "right",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x1324.jpg",
             "parallax": true,
