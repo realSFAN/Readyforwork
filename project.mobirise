@@ -141,8 +141,8 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#000000",
+            "overlay": false,
+            "overlayColor": "#7c706b",
             "overlayOpacity": "0.5"
           },
           "title": "Unlock Your Potentials",
