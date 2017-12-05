@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-09-18_1925",
+    "name": "Readyforwork",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -25,15 +25,17 @@
       ]
     },
     "versionFirst": "4.2.2",
-    "uniqCompNum": 22,
-    "versionPublish": "4.2.2"
+    "uniqCompNum": 32,
+    "versionPublish": "4.2.2",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Readyforwork - unlock your potentials, be unstopable!",
+        "meta_descr": "Readyforwork is the easiest way to improve your employability or entrepreneurial  skills, connect with world class mentors, hire great talents. \n\nNow you can have access to unlimited personalized education at a your finger tips, share and network with mentors and peers and recruit the best and brightest talents without blowing your budgets.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -146,7 +148,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "Unlock Your Potentials",
-          "text": "<span style=\"font-style: normal;\"><b>Readyforwork helps you to improve your employability or entrepreneurial </b></span><br><span style=\"font-style: normal;\"><b>skills, connect with world class mentors, hire great talents,&nbsp;</b></span><span style=\"font-style: normal;\"><b>be unstoppable!</b></span><br>",
+          "text": "<span style=\"font-style: normal;\"><b>Readyforwork is the easiest way to improve your employability or entrepreneurial </b></span><br><span style=\"font-style: normal;\"><b>skills, connect with world class mentors, hire great talents,&nbsp;</b></span><span style=\"font-style: normal;\"><b>be unstoppable!</b></span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features6-8\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#form2-l\" data-toolbar=\"-mbrBtnMove\">SUBSCRIBE&nbsp;</a>",
           "_tags": [
             "Theme"
@@ -614,6 +616,40 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSetUfgSDx9tWYU0_CZdNs5pz7_vmxB7p7R94haynmKGLJSVtQ/viewform?usp=send_form\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REQUEST A CALL</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-e"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-m"
         }
       ]
     }
