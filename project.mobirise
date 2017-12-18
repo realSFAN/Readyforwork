@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.2.2",
-    "uniqCompNum": 32,
+    "uniqCompNum": 41,
     "versionPublish": "4.2.2",
     "favicon": "",
     "noImageResize": ""
@@ -34,7 +34,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Readyforwork - unlock your potentials, be unstopable!",
+        "title": "Readyforwork - Unlimited personalised education at your fingertips",
         "meta_descr": "Readyforwork is the easiest way to improve your employability or entrepreneurial  skills, connect with world class mentors, hire great talents. \n\nNow you can have access to unlimited personalized education at a your finger tips, share and network with mentors and peers and recruit the best and brightest talents without blowing your budgets.",
         "header_custom": "",
         "footer_custom": "",
@@ -515,7 +515,7 @@
             "showImages": false,
             "showName": true,
             "showBio": false,
-            "count": 3,
+            "count": "3",
             "paddingTop": 3,
             "paddingBottom": "4",
             "bgImageRadio": true,
@@ -525,7 +525,7 @@
             "bgColor": "#fff",
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.6"
           },
           "_tags": [
             "Theme"
@@ -594,7 +594,7 @@
             "showText": true,
             "showButton": true,
             "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
