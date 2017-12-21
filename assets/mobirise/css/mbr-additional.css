@@ -11,6 +11,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -522,4 +523,8 @@ h6,
 }
 #msg-box3-e .lead P {
   font-size: 20px;
+}
+#contacts1-1a P {
+  font-family: 'Lato', sans-serif;
+  color: #ffffff;
 }
