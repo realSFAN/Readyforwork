@@ -145,7 +145,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.3"
           },
           "title": "Unlock Your Potentials",
           "text": "<span style=\"font-style: normal;\"><b>Readyforwork is the easiest way to improve your employability or entrepreneurial </b></span><br><span style=\"font-style: normal;\"><b>skills, connect with world class mentors, hire great talents,&nbsp;</b></span><span style=\"font-style: normal;\"><b>be unstoppable!</b></span><br>",
@@ -621,7 +621,7 @@
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "0",
             "postToLoad": "3",
             "facebook": "https://facebook.com/Myreadyforwork/",
             "twitter": "https://twitter.com/Myreadyforwork/",
