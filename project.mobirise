@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.2.2",
-    "uniqCompNum": 47,
+    "uniqCompNum": 48,
     "versionPublish": "4.2.2",
     "favicon": "",
     "noImageResize": ""
@@ -620,19 +620,19 @@
         {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "postToLoad": 3,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": "3",
             "facebook": "https://facebook.com/Myreadyforwork/",
             "twitter": "https://twitter.com/Myreadyforwork/",
             "google": "",
             "youtube": "",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mobile-app-mockup-3-1920x1280.jpg",
             "overlay": true,
-            "overlayColor": "#7e9b9f",
+            "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
           "alias": "social-feed",
@@ -640,7 +640,7 @@
             "Extension"
           ],
           "_name": "feed",
-          "_anchor": "feed-16"
+          "_anchor": "feed-1b"
         },
         {
           "_params": {
